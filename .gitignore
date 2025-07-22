@@ -1,0 +1,9 @@
+# Ignore user-specific files
+.vs/
+*.db
+*.sqlite
+*.suo
+*.user
+*.json
+bin/
+obj/
